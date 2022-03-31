@@ -17,7 +17,7 @@ git@github.com:Warywise/imagine-store.git
 ```
 
 - Após clonados, vá até o diretório de cada projeto em diferentes terminais
-  - No Backend, basta rodar o comando `docker compose up` e aguardar (pode demorar um pouco e surgir alguns warnings)
+  - No Backend, basta rodar o comando `docker-compose up` e aguardar (pode demorar um pouco e surgir alguns warnings)
   - No Frontend, é necessário intalar as dependências com `npm install` e após isso rodar o comando `npm start`.
 
 ---
