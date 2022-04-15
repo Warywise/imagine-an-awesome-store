@@ -2,9 +2,9 @@
 
 Este repositório foi criado apenas com o intuito de divulgar de forma única outros dois repositórios:
 
-> [An Awesome API](https://github.com/Warywise/an-awesome-api)
+> [An Awesome API](https://github.com/Warywise/an-awesome-api) (Backend)
 > 
-> [Imagine Store](https://github.com/Warywise/imagine-store)
+> [Imagine Store](https://github.com/Warywise/imagine-store) (Frontend)
 
 # Como rodar:
 - Crie um diretório qualquer e dentro dele clone os projetos
