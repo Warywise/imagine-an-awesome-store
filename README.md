@@ -1,6 +1,6 @@
 # Imagine An Awesome Store
 
-Este repositório foi criado apenas com o intuito de divulgar de forma única outros dois repositórios:
+Este repositório foi criado apenas com o intuito de divulgar de forma única outros dois repositórios que trabalham juntos:
 
 > [An Awesome API](https://github.com/Warywise/an-awesome-api) (Backend)
 > 
