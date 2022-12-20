@@ -1,6 +1,6 @@
 # Imagine An Awesome Store
 
-Este repositório foi criado apenas com o intuito de divulgar de forma única outros dois repositórios que trabalham juntos:
+Este repositório foi criado apenas com o intuito de divulgar de forma única outros dois repositórios que trabalham conjuntamente:
 
 > [An Awesome API](https://github.com/Warywise/an-awesome-api) (Backend)
 > 
@@ -10,10 +10,10 @@ Este repositório foi criado apenas com o intuito de divulgar de forma única ou
 - Crie um diretório qualquer e dentro dele clone os projetos
 > **_SSH_**
 ```
-git@github.com:Warywise/an-awesome-api.git
+git clone git@github.com:Warywise/an-awesome-api.git
 ```
 ```
-git@github.com:Warywise/imagine-store.git
+git clone git@github.com:Warywise/imagine-store.git
 ```
 
 - Após clonados, vá até o diretório de cada projeto em diferentes terminais
@@ -21,4 +21,4 @@ git@github.com:Warywise/imagine-store.git
   - No Frontend, é necessário intalar as dependências com `npm install` e após isso rodar o comando `npm start`.
 
 ---
-### Quaisquer informações adicionais sobre algum dos projetos estão presentes detalhadas nos respectivos repositórios
+### Quaisquer informações adicionais sobre algum dos projetos estão presentes detalhadas nos seus respectivos repositórios.
