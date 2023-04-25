@@ -1,4 +1,4 @@
-# Imagine An Awesome Store
+# Imagine An Awesome Store (este projeto, atualmente, está em processo de refatoração)
 
 Este repositório foi criado apenas com o intuito de divulgar de forma única outros dois repositórios que trabalham conjuntamente:
 
